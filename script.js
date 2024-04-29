@@ -7,6 +7,9 @@ function lookupName() {
     var idToName = {
         "001": "John Doe",
         "002": "Jane Smith",
+        "Bassam": "Best Designer and programmer",
+        "Baraa": "Best researcher",
+        "Nehad": "Masar leader",
         // Add more ID to Name mappings here
     };
 
