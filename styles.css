@@ -1,0 +1,19 @@
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+input[type="text"], button {
+    margin: 10px 0;
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#nameOutput {
+    margin-top: 20px;
+}
